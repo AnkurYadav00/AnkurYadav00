@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AnkurYadav00
-- 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... Basics of Data Science
+- 👋 Hi, I’m @AnkurYadav00 working as a Full Stack LLM developer.
+- 👀 I’m interested in ... Data Science and AI
+- 🌱 I’m currently learning ... Data Science, ML, DL, NLP.
 - 💞️ I’m looking to collaborate on ...Python projects/Data Science
 - 📫 How to reach me ...@@@@ *********** @@@@
 
